@@ -1,4 +1,4 @@
-# MDSE extraction process
+# MDSA extraction process
 
 This code calculates iSCA and SP in order to obtain MDSE and nT
 - 
