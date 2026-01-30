@@ -203,7 +203,6 @@ Map.addLayer(sca.median().clip(aoi),{min:0,max:50},'sca mediana',0);
 // 7. integrating 
 
 
-// doing by hand per year
 
 var dates = [970444800000,1001980800000] // set start-end in milliseconds of single year  <=========== (!)
 var start = (ee.List(dates).get(0)) 
