@@ -1,4 +1,4 @@
-# MDSE extraction process ©SamueleDePetris ©FrancescoParizia
+# MDSE extraction process
 
 This code calculates iSCA and SP in order to obtain MDSE and nT
 - 
@@ -312,3 +312,6 @@ Export.image.toDrive({
   crs:'EPSG:32632',
   region: aoi
 });
+
+```
+©SamueleDePetris ©FrancescoParizia
